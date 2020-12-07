@@ -244,46 +244,46 @@ margin-left:80px;
     grid-auto-rows: minmax(325px, auto);  
 }
 .oui0{
-    background-color:red;
+    background-color:transparent;
     grid-column:  1/1 ;
   grid-row: 1;
 }
 .oui1{
-    background-color:blue;
+    background-color:transparent;
     grid-column:  2/2 ;
   grid-row: 1;
 }
 .oui2{
-    background-color:green;
+    background-color:transparent;
     grid-column:  3/3 ;
   grid-row: 1;
 }
 .category{
-    background-color:white;
+    background-color:transparent;
     margin-left:100%
 }
 .oui3{
-    background-color:Yellow;
+    background-color: transparent;
     grid-column:  4/4 ;
   grid-row: 1;
 }
 .oui4{
-    background-color:Pink;
+    background-color:transparent;
     grid-column:  1/1 ;
   grid-row: 2;
 }
 .oui5{
-    background-color:crimson;
+    background-color:transparent;
     grid-column:  2/2 ;
   grid-row: 2;
 }
 .oui6{
-    background-color:purple;
+    background-color:transparent;
     grid-column:  3/3 ;
   grid-row: 2;
 }
 .oui7{
-    background-color:lightblue;
+    background-color:transparent;
     grid-column:  4/4 ;
   grid-row: 2;
 }
